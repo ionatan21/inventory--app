@@ -1,0 +1,32 @@
+
+body{
+  margin: 10px;
+  justify-content: center; /* Centrado horizontal */
+  align-items: center; /* Centrado vertical */
+  background-color:#c0c1c5;
+}
+
+.request-button{
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 25px;
+  padding: 1%;/
+
+}
+
+.menu-table {
+ width: 100%;
+ text-align: center;
+ margin-bottom: 100px;
+}
+
+.menu-table th, .menu-table td {
+  border: 1px solid #000000;
+  margin: 25px;
+
+}
+
+.menu-table th {
+  background-color: #f2f2f2;
+}
